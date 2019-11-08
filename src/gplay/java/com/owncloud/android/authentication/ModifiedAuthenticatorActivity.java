@@ -2,7 +2,7 @@ package com.owncloud.android.authentication;
 
 import android.os.Bundle;
 
-import com.nextcloud.client.di.Injectable;
+import com.amperbackup.client.di.Injectable;
 import com.owncloud.android.utils.GooglePlayUtils;
 
 /**

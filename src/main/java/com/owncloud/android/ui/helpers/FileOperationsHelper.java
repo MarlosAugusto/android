@@ -45,8 +45,8 @@ import android.view.View;
 import android.webkit.MimeTypeMap;
 
 import com.evernote.android.job.JobRequest;
-import com.nextcloud.client.account.CurrentAccountProvider;
-import com.nextcloud.client.network.ConnectivityService;
+import com.amperbackup.client.account.CurrentAccountProvider;
+import com.amperbackup.client.network.ConnectivityService;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.FileDataStorageManager;

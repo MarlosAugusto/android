@@ -35,11 +35,11 @@ import android.util.Log;
 
 import com.evernote.android.job.JobManager;
 import com.evernote.android.job.JobRequest;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.jobs.BackgroundJobManager;
-import com.nextcloud.client.network.ConnectivityService;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.jobs.BackgroundJobManager;
+import com.amperbackup.client.network.ConnectivityService;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.datamodel.ArbitraryDataProvider;
 import com.owncloud.android.datamodel.FilesystemDataProvider;

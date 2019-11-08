@@ -43,7 +43,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nextcloud.android.sso.Constants;
+import com.amperbackup.android.sso.Constants;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.lib.common.OwnCloudAccount;
@@ -59,13 +59,13 @@ import butterknife.ButterKnife;
 import butterknife.OnClick;
 import butterknife.Unbinder;
 
-import static com.nextcloud.android.sso.Constants.DELIMITER;
-import static com.nextcloud.android.sso.Constants.EXCEPTION_ACCOUNT_ACCESS_DECLINED;
-import static com.nextcloud.android.sso.Constants.EXCEPTION_ACCOUNT_NOT_FOUND;
-import static com.nextcloud.android.sso.Constants.NEXTCLOUD_FILES_ACCOUNT;
-import static com.nextcloud.android.sso.Constants.NEXTCLOUD_SSO;
-import static com.nextcloud.android.sso.Constants.NEXTCLOUD_SSO_EXCEPTION;
-import static com.nextcloud.android.sso.Constants.SSO_SHARED_PREFERENCE;
+import static com.amperbackup.android.sso.Constants.DELIMITER;
+import static com.amperbackup.android.sso.Constants.EXCEPTION_ACCOUNT_ACCESS_DECLINED;
+import static com.amperbackup.android.sso.Constants.EXCEPTION_ACCOUNT_NOT_FOUND;
+import static com.amperbackup.android.sso.Constants.NEXTCLOUD_FILES_ACCOUNT;
+import static com.amperbackup.android.sso.Constants.NEXTCLOUD_SSO;
+import static com.amperbackup.android.sso.Constants.NEXTCLOUD_SSO_EXCEPTION;
+import static com.amperbackup.android.sso.Constants.SSO_SHARED_PREFERENCE;
 
 
 /**

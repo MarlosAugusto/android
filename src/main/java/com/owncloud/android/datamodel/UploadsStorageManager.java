@@ -29,7 +29,7 @@ import android.content.ContentValues;
 import android.database.Cursor;
 import android.net.Uri;
 
-import com.nextcloud.client.account.CurrentAccountProvider;
+import com.amperbackup.client.account.CurrentAccountProvider;
 import com.owncloud.android.db.OCUpload;
 import com.owncloud.android.db.ProviderMeta.ProviderTableMeta;
 import com.owncloud.android.db.UploadResult;

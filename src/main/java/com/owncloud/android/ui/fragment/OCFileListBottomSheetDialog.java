@@ -28,7 +28,7 @@ import android.widget.TextView;
 
 import com.google.android.material.bottomsheet.BottomSheetBehavior;
 import com.google.android.material.bottomsheet.BottomSheetDialog;
-import com.nextcloud.client.device.DeviceInfo;
+import com.amperbackup.client.device.DeviceInfo;
 import com.owncloud.android.R;
 import com.owncloud.android.lib.resources.status.OCCapability;
 import com.owncloud.android.ui.activity.FileActivity;

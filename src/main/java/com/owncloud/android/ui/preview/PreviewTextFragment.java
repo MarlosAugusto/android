@@ -37,8 +37,8 @@ import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.di.Injectable;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.di.Injectable;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;
 import com.owncloud.android.files.FileMenuFilter;

@@ -27,7 +27,7 @@ import android.content.Intent;
 import android.os.Build;
 import android.widget.Toast;
 
-import com.nextcloud.client.preferences.AppPreferencesImpl;
+import com.amperbackup.client.preferences.AppPreferencesImpl;
 import com.owncloud.android.R;
 import com.owncloud.android.lib.common.utils.Log_OC;
 import com.owncloud.android.utils.DeviceCredentialUtils;

@@ -34,8 +34,8 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.di.Injectable;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.di.Injectable;
 import com.owncloud.android.R;
 import com.owncloud.android.ui.activity.ReceiveExternalFilesActivity;
 import com.owncloud.android.ui.adapter.AccountListAdapter;

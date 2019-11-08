@@ -32,7 +32,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.nextcloud.client.account.CurrentAccountProvider;
+import com.amperbackup.client.account.CurrentAccountProvider;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.Template;
 import com.owncloud.android.ui.dialog.ChooseTemplateDialogFragment;

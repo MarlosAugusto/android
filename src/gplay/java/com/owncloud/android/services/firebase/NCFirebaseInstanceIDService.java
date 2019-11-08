@@ -23,8 +23,8 @@ import android.text.TextUtils;
 
 import com.google.firebase.iid.FirebaseInstanceId;
 import com.google.firebase.iid.FirebaseInstanceIdService;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.R;
 import com.owncloud.android.utils.PushUtils;
 

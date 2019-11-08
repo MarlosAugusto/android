@@ -27,8 +27,8 @@ import android.content.Context;
 import android.database.Cursor;
 import android.net.Uri;
 
-import com.nextcloud.client.preferences.AppPreferences;
-import com.nextcloud.client.preferences.AppPreferencesImpl;
+import com.amperbackup.client.preferences.AppPreferences;
+import com.amperbackup.client.preferences.AppPreferencesImpl;
 import com.owncloud.android.db.ProviderMeta;
 import com.owncloud.android.lib.common.utils.Log_OC;
 

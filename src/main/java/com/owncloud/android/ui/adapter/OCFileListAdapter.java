@@ -48,8 +48,8 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.target.BitmapImageViewTarget;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.datamodel.OCFile;

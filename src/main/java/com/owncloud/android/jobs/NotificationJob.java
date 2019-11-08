@@ -42,7 +42,7 @@ import android.util.Log;
 import com.evernote.android.job.Job;
 import com.evernote.android.job.util.support.PersistableBundleCompat;
 import com.google.gson.Gson;
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManager;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.DecryptedPushMessage;
 import com.owncloud.android.datamodel.SignatureVerification;

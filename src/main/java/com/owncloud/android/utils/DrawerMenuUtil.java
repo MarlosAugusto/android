@@ -24,7 +24,7 @@ import android.accounts.Account;
 import android.content.res.Resources;
 import android.view.Menu;
 
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManager;
 import com.owncloud.android.R;
 import com.owncloud.android.lib.resources.status.OCCapability;
 import com.owncloud.android.lib.resources.status.OwnCloudVersion;

@@ -34,7 +34,7 @@ import android.os.Looper;
 import android.provider.BaseColumns;
 import android.widget.Toast;
 
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManager;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.lib.common.operations.RemoteOperationResult;
@@ -146,7 +146,7 @@ public class UsersAndGroupsSearchProvider extends ContentProvider {
      *
      * Reference: http://developer.android.com/guide/topics/search/adding-custom-suggestions.html#CustomContentProvider
      *
-     * @param uri           Content {@link Uri}, formatted as "content://com.nextcloud.android.providers.UsersAndGroupsSearchProvider/"
+     * @param uri           Content {@link Uri}, formatted as "content://com.amperbackup.android.providers.UsersAndGroupsSearchProvider/"
      *                      + {@link android.app.SearchManager#SUGGEST_URI_PATH_QUERY} + "/" +
      *                      'userQuery'
      * @param projection    Expected to be NULL.

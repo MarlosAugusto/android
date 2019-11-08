@@ -37,7 +37,7 @@ import android.os.Process;
 import android.text.TextUtils;
 import android.util.Pair;
 
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManager;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.datamodel.OCFile;

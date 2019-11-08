@@ -29,9 +29,9 @@ import android.content.IntentFilter;
 
 import com.evernote.android.job.JobRequest;
 import com.evernote.android.job.util.Device;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.network.ConnectivityService;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.network.ConnectivityService;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.datamodel.UploadsStorageManager;
 

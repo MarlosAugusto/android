@@ -26,7 +26,7 @@ import android.accounts.Account;
 
 import com.bumptech.glide.Priority;
 import com.bumptech.glide.load.data.DataFetcher;
-import com.nextcloud.client.account.CurrentAccountProvider;
+import com.amperbackup.client.account.CurrentAccountProvider;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.lib.common.OwnCloudAccount;
 import com.owncloud.android.lib.common.OwnCloudClient;

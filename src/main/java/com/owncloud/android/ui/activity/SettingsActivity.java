@@ -53,12 +53,12 @@ import android.view.ViewGroup;
 import android.view.Window;
 import android.webkit.URLUtil;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.di.Injectable;
-import com.nextcloud.client.etm.EtmActivity;
-import com.nextcloud.client.logger.ui.LogsActivity;
-import com.nextcloud.client.preferences.AppPreferences;
-import com.nextcloud.client.preferences.AppPreferencesImpl;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.di.Injectable;
+import com.amperbackup.client.etm.EtmActivity;
+import com.amperbackup.client.logger.ui.LogsActivity;
+import com.amperbackup.client.preferences.AppPreferences;
+import com.amperbackup.client.preferences.AppPreferencesImpl;
 import com.owncloud.android.BuildConfig;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;

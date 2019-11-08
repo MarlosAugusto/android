@@ -54,11 +54,11 @@ import android.view.View;
 import android.view.ViewTreeObserver;
 
 import com.google.android.material.snackbar.Snackbar;
-import com.nextcloud.client.appinfo.AppInfo;
-import com.nextcloud.client.di.Injectable;
-import com.nextcloud.client.media.PlayerServiceConnection;
-import com.nextcloud.client.network.ConnectivityService;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.appinfo.AppInfo;
+import com.amperbackup.client.di.Injectable;
+import com.amperbackup.client.media.PlayerServiceConnection;
+import com.amperbackup.client.network.ConnectivityService;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.FileDataStorageManager;

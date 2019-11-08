@@ -41,9 +41,9 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.di.Injectable;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.di.Injectable;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.BuildConfig;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;

@@ -28,7 +28,7 @@ import android.accounts.OperationCanceledException;
 import android.content.Context;
 import android.os.AsyncTask;
 
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManager;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;

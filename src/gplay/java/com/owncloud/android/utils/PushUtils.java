@@ -33,9 +33,9 @@ import android.util.Base64;
 import android.util.Log;
 
 import com.google.gson.Gson;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.preferences.AppPreferences;
-import com.nextcloud.client.preferences.AppPreferencesImpl;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.preferences.AppPreferences;
+import com.amperbackup.client.preferences.AppPreferencesImpl;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.ArbitraryDataProvider;

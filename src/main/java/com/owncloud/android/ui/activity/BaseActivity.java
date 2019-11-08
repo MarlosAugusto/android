@@ -9,8 +9,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.di.Injectable;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.di.Injectable;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.datamodel.OCFile;

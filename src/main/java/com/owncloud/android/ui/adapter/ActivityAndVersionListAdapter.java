@@ -31,7 +31,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.nextcloud.client.account.CurrentAccountProvider;
+import com.amperbackup.client.account.CurrentAccountProvider;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.lib.common.OwnCloudClient;

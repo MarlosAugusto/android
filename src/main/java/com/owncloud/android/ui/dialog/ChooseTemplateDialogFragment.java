@@ -39,8 +39,8 @@ import android.view.Window;
 import android.view.WindowManager.LayoutParams;
 import android.widget.EditText;
 
-import com.nextcloud.client.account.CurrentAccountProvider;
-import com.nextcloud.client.di.Injectable;
+import com.amperbackup.client.account.CurrentAccountProvider;
+import com.amperbackup.client.di.Injectable;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;

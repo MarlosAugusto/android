@@ -17,7 +17,7 @@
     <Match>
         <Or>
             <Class name="~.*\.Dagger.*" />
-            <Class name="~com.nextcloud.client.di\..*_.*" />
+            <Class name="~com.amperbackup.client.di\..*_.*" />
         </Or>
     </Match>
     <!-- Dagger generated code uses internal APIs -->

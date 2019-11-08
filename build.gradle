@@ -148,24 +148,24 @@ android {
         productFlavors {
             // used for f-droid
             generic {
-                applicationId 'com.nextcloud.client'
+                applicationId 'com.amperbackup.client'
                 dimension "default"
             }
 
             gplay {
-                applicationId 'com.nextcloud.client'
+                applicationId 'com.amperbackup.client'
                 dimension "default"
             }
 
             versionDev {
-                applicationId "com.nextcloud.android.beta"
+                applicationId "com.amperbackup.android.beta"
                 dimension "default"
                 versionCode 20191018
                 versionName "20191018"
             }
 
             qa {
-                applicationId "com.nextcloud.android.qa"
+                applicationId "com.amperbackup.android.qa"
                 dimension "default"
                 versionCode 1
                 versionName "1"

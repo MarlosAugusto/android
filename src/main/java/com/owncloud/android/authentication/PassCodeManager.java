@@ -27,8 +27,8 @@ import android.os.PowerManager;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.nextcloud.client.preferences.AppPreferences;
-import com.nextcloud.client.preferences.AppPreferencesImpl;
+import com.amperbackup.client.preferences.AppPreferences;
+import com.amperbackup.client.preferences.AppPreferencesImpl;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.ui.activity.PassCodeActivity;
 import com.owncloud.android.ui.activity.RequestCredentialsActivity;

@@ -23,8 +23,8 @@ import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
 
-import com.nextcloud.android.sso.InputStreamBinder;
-import com.nextcloud.client.account.UserAccountManager;
+import com.amperbackup.android.sso.InputStreamBinder;
+import com.amperbackup.client.account.UserAccountManager;
 
 import javax.inject.Inject;
 

@@ -28,10 +28,10 @@ import android.content.Context;
 
 import com.evernote.android.job.Job;
 import com.evernote.android.job.JobCreator;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.network.ConnectivityService;
-import com.nextcloud.client.preferences.AppPreferences;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.network.ConnectivityService;
+import com.amperbackup.client.preferences.AppPreferences;
 import com.owncloud.android.datamodel.UploadsStorageManager;
 
 import androidx.annotation.NonNull;

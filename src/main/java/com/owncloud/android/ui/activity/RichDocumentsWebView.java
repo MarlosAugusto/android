@@ -48,8 +48,8 @@ import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.google.android.material.snackbar.Snackbar;
-import com.nextcloud.client.account.CurrentAccountProvider;
-import com.nextcloud.client.network.ClientFactory;
+import com.amperbackup.client.account.CurrentAccountProvider;
+import com.amperbackup.client.network.ClientFactory;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;
 import com.owncloud.android.datamodel.Template;

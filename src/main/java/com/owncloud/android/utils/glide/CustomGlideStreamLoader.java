@@ -24,7 +24,7 @@ package com.owncloud.android.utils.glide;
 
 import com.bumptech.glide.load.data.DataFetcher;
 import com.bumptech.glide.load.model.stream.StreamModelLoader;
-import com.nextcloud.client.account.CurrentAccountProvider;
+import com.amperbackup.client.account.CurrentAccountProvider;
 
 import java.io.InputStream;
 

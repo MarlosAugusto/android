@@ -52,10 +52,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.VideoView;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.di.Injectable;
-import com.nextcloud.client.media.ErrorFormat;
-import com.nextcloud.client.media.PlayerServiceConnection;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.di.Injectable;
+import com.amperbackup.client.media.ErrorFormat;
+import com.amperbackup.client.media.PlayerServiceConnection;
 import com.owncloud.android.R;
 import com.owncloud.android.datamodel.OCFile;
 import com.owncloud.android.files.FileMenuFilter;

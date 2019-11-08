@@ -9,8 +9,8 @@ import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.account.UserAccountManagerImpl;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManagerImpl;
 import com.owncloud.android.datamodel.FileDataStorageManager;
 import com.owncloud.android.lib.common.OwnCloudClient;
 import com.owncloud.android.lib.common.OwnCloudClientFactory;

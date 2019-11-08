@@ -3,10 +3,10 @@ package com.owncloud.android;
 import android.content.ContentResolver;
 
 import com.evernote.android.job.JobRequest;
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.account.UserAccountManagerImpl;
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.network.ConnectivityService;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.account.UserAccountManagerImpl;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.network.ConnectivityService;
 import com.owncloud.android.datamodel.UploadsStorageManager;
 import com.owncloud.android.db.OCUpload;
 import com.owncloud.android.files.services.FileUploader;

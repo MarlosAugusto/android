@@ -27,10 +27,10 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.nextcloud.client.account.UserAccountManager;
-import com.nextcloud.client.device.PowerManagementService;
-import com.nextcloud.client.jobs.BackgroundJobManager;
-import com.nextcloud.client.network.ConnectivityService;
+import com.amperbackup.client.account.UserAccountManager;
+import com.amperbackup.client.device.PowerManagementService;
+import com.amperbackup.client.jobs.BackgroundJobManager;
+import com.amperbackup.client.network.ConnectivityService;
 import com.owncloud.android.MainApp;
 import com.owncloud.android.datamodel.UploadsStorageManager;
 import com.owncloud.android.lib.common.utils.Log_OC;
